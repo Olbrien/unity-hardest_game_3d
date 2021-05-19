@@ -23,3 +23,8 @@ Can you beat the game?
 
 Due to restrictions of github file sizes, if you want to run this project you have to unzip Wispy Sky at the assets folder. You can use this [link](https://pinetools.com/join-files).
 
+
+![GitHub Logo](/Extras/Pictures/0.png)
+![GitHub Logo](/Extras/Pictures/1.png)
+![GitHub Logo](/Extras/Pictures/2.png)
+![GitHub Logo](/Extras/Pictures/3.png)
