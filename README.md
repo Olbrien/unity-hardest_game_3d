@@ -16,6 +16,8 @@ Music by [[friendzoned]](https://soundcloud.com/friendzonedbeats).
 Effects made using the software Reaper and my guitar.
 It also has 3 different types of controllers, from "pressing" to "joystick".
 
+You can download the game from the [Google Play Store](https://play.google.com/store/apps/details?id=com.Olbrieno.HardestGame3D).
+
 Can you beat the game?
 
 
